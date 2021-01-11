@@ -1,16 +1,28 @@
-# signin
+# SignIn
 
 A new Flutter project.
 
-## Getting Started
+![2021-01-11_10-49](https://user-images.githubusercontent.com/64866875/104193079-71bde100-53fe-11eb-8a0b-0162877c7524.png)
 
-This project is a starting point for a Flutter application.
+![2021-01-11_10-49_1](https://user-images.githubusercontent.com/64866875/104192972-5226b880-53fe-11eb-8914-dfffb538cac2.png)
 
-A few resources to get you started if this is your first Flutter project:
+![2021-01-11_10-50](https://user-images.githubusercontent.com/64866875/104192866-34595380-53fe-11eb-99ab-7ee549ed959c.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+-------
+Project | Technology | Author
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project
+
+App to sign in to education plataform using email, facebook account and google account.
+
+## Technology
+
+The following tecnhologies used to build this app are:
+
+- [Flutter](https://flutter.dev/)
+
+## Author
+
+[GitHub - Isabel Ferreira](https://www.linkedin.com/in/fernandesisabel/)
+
+[LinkedIn - Isabel Ferreira](https://github.com/isabelffernandes)
